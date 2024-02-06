@@ -1,2 +1,2 @@
 # SQL-Queries
-[Link to Certificate] (https://www.udemy.com/certificate/UC-d40a4676-fc86-461d-8d03-4c1fb451d295/)
+[View Certificate](https://www.udemy.com/certificate/UC-d40a4676-fc86-461d-8d03-4c1fb451d295/)
